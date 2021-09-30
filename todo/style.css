@@ -1,0 +1,26 @@
+#title {
+  color: pink;
+  text-decoration: underline;
+}
+
+.wrap {
+  display: flex;
+  align-items: center;
+}
+
+.todo-card {
+  border: 0.5px solid gray;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+  width: 200px;
+}
+
+button {
+  width: 100px;
+}
+
+button:hover {
+  background-color: orange;
+  color: green;
+}

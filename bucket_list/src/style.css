@@ -1,0 +1,32 @@
+/* .App { */
+/* background-color: #eee; */
+/* height: 100vh;  화면을 기준으로 100 % */
+/* width: 100vw; container를 가운데 정렬하기 위해 넓이 지정 */
+/* display: flex; /*세로 가운데 정렬 -> 자식요소가 컨텐츠 길이만큼으로 줄어든다. (width 지정해줘야함) */
+/* } 
+
+/* .container { */
+/* background-color: #fff; */
+/* width: 50vw; flex 이후에 넓이 지정 */
+/* max-width: 350px; 최대 넓이 */
+/* height: 80vh; 화면을 기준으로 높이가 80% */
+/* margin: auto; 가로 가운데 정렬 */
+/* padding: 16px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+} */
+
+/* .container h1 {
+  color: slateblue;
+  text-align: center;
+}
+
+.container .line {
+  margin: 16px 0px;
+} */
+
+/* .list-item {
+  padding: 16px;
+  margin: 10px;
+  background-color: aliceblue;
+} */
